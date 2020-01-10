@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  10 JAN 2020 01:37
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  10 JAN 2020 02:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -24,6 +24,11 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+
+LaTeX Warning: You have requested document class `seilercv',
+               but the document class provides `seiler-resume'.
+
+Document Class: seiler-resume 2020/01/10 CV class
 (/usr/local/texlive/2017/texmf-dist/tex/latex/textpos/textpos.sty
 Package: textpos 2016/06/07 v1.8
 
@@ -1079,7 +1084,7 @@ pping=tex-text;"
 .................................................
 LaTeX Info: Redefining \textin on input line 153.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 25.
+Package hyperref Info: Option `colorlinks' set `true' on input line 27.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
@@ -1118,7 +1123,7 @@ tAwesome]/OT"
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xe
 luatex.tex))
-LaTeX Info: Redefining \bf on input line 137.
+LaTeX Info: Redefining \bf on input line 139.
 \@title=\box56
 ) (./cv_web.aux)
 \openout1 = `cv_web.aux'.
@@ -1385,7 +1390,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 246.
 Here is how much of TeX's memory you used:
  29122 strings out of 493005
  572730 string characters out of 6134596
- 620414 words of memory out of 5000000
+ 620435 words of memory out of 5000000
  32769 multiletter control sequences out of 15000+600000
  6915 words of font info for 46 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

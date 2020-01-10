@@ -1,4 +1,6 @@
+% Template by Jennifer Seiler
 \LoadClassWithOptions{article}  % build on standard article class
+\ProvidesClass{seiler-resume}[2020/01/10 CV class]
  
 \usepackage[absolute,overlay]{textpos}
 \usepackage[colorlinks]{hyperref}
